@@ -1,0 +1,16 @@
+{
+  "rotateSpeed": 0.45,
+  "bloomStrength": 1.1,
+  "nodeScale": 1,
+  "initialZoom": 1,
+  "background": "#000006",
+  "showNebula": true,
+  "showStarfield": true,
+  "showHaze": true,
+  "enableDrag": false,
+  "showLabels": false,
+  "showFilters": false,
+  "colorBy": "folder",
+  "excludeFolders": "templates, 005 Journals",
+  "colorOverrides": ""
+}

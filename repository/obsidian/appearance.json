@@ -1,0 +1,7 @@
+{
+  "cssTheme": "Catppuccin",
+  "enabledCssSnippets": [
+    "dashboard",
+    "hover"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "tags",
+  "userIgnoreFilters": [
+    "templates/",
+    "005 Journals/",
+    "001 Main notes/",
+    "004 databases/"
+  ],
+  "openBehavior": "file:",
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "008 Attached"
+}
