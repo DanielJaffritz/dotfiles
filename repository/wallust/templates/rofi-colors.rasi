@@ -1,0 +1,7 @@
+*{
+  BG: {{background}}80;
+  Accent: rgba(238, 180, 180, 0.2);
+  FG: {{foreground}};
+  RED: {{color1}};
+  active: {{color0}};
+}

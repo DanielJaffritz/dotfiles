@@ -1,0 +1,5 @@
+@define-color bg_color alpha({{background}}, 0.7);
+
+@define-color hover_color alpha({{color4}}, 0.9);
+
+@define-color text_color {{foreground}};
